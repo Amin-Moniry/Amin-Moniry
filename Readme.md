@@ -165,10 +165,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling&fontAlignY=65" width="100%"/>
+<div align="center">
 
-<div align="center" style="margin-top: -150px;">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!;Let's+Build+The+Future!;Keep+Coding+%F0%9F%9A%80" alt="Thanks" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=00D9FF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 
 </div>
