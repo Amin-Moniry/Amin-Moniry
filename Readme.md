@@ -149,36 +149,26 @@
       <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
       <br>
       <img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=FF0000&label=VIEWS&labelColor=000000" />
-      <br>
-      <sub><b>👁️ Profile Views</b></sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" />
       <br>
       <img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS" />
-      <br>
-      <sub><b>👥 GitHub Followers</b></sub>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50" height="50" />
       <br>
       <img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FF0000&labelColor=000000&logo=github&logoColor=white&label=STARS" />
-      <br>
-      <sub><b>⭐ Total Stars</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling&fontAlignY=65" width="100%"/>
 
-<div align="center">
+<div align="center" style="margin-top: -150px;">
   
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!" alt="Thanks" />
-</h2>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Thanks+For+Visiting!;Let's+Build+The+Future!;Keep+Coding+%F0%9F%9A%80" alt="Thanks" />
 
 </div>
