@@ -18,19 +18,11 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Languages I Speak
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%26+AI+Engineer;Passionate+About+Innovation+%26+Technology;Building+Amazing+Projects+With+Code" alt="About" />
-
-**🎯 Current Focus:** Web Development • AI/ML Projects • Network Engineering  
-**📚 Learning:** Deep Learning • Advanced Docker • Cloud Computing  
-**🤝 Collaborating On:** Open Source • AI Projects • Web Applications  
-**🗣️ Languages:** Persian • English • Turkish • Korean  
-**💻 Tech Stack:** Python • JavaScript • HTML5 • CSS3
-
-> *"Thanks for dropping by! Let's build something amazing together."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&duration=3000&pause=800&color=DC143C&center=true&vCenter=true&width=500&lines=🇮🇷+Persian+(Native);🇬🇧+English+(Fluent);🇹🇷+Turkish+(Advanced);🇰🇷+Korean+(Intermediate)" alt="Languages" />
 
 </div>
 
