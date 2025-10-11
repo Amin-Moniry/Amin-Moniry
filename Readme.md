@@ -1,6 +1,9 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Amin Moniry
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=300&lines=Amin+Moniry" alt="Name" />
+</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Network+Security+Specialist;Content+Creator+%26+YouTuber;Building+The+Future+With+Code" alt="Typing SVG" />
 
@@ -17,30 +20,19 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-```python
-#!/usr/bin/env python3
+<div align="center">
 
-class AminMoniry:
-    def __init__(self):
-        self.username = "Amin Moniry"
-        self.role = "Full Stack Developer & AI Engineer"
-        self.location = "Iran"
-        self.languages = ["Persian", "English", "Turkish", "Korean"]
-        self.code = ["Python", "JavaScript", "HTML5", "CSS3"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        
-    def current_work(self):
-        return {
-            "focus": ["Web Development", "AI/ML Projects", "Network Engineering"],
-            "learning": ["Deep Learning", "Advanced Docker", "Cloud Computing"],
-            "collaborating": ["Open Source", "AI Projects", "Web Apps"]
-        }
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%26+AI+Engineer;Passionate+About+Innovation+%26+Technology;Building+Amazing+Projects+With+Code" alt="About" />
 
-me = AminMoniry()
-me.say_hi()
-```
+**🎯 Current Focus:** Web Development • AI/ML Projects • Network Engineering  
+**📚 Learning:** Deep Learning • Advanced Docker • Cloud Computing  
+**🤝 Collaborating On:** Open Source • AI Projects • Web Applications  
+**🗣️ Languages:** Persian • English • Turkish • Korean  
+**💻 Tech Stack:** Python • JavaScript • HTML5 • CSS3
+
+> *"Thanks for dropping by! Let's build something amazing together."*
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
