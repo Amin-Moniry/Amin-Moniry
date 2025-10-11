@@ -139,11 +139,35 @@
 
 <div align="center">
 
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Profile Statistics
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=FF0000&label=VIEWS&labelColor=000000" />
+      <br>
+      <sub><b>👁️ Profile Views</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS" />
+      <br>
+      <sub><b>👥 GitHub Followers</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="50" height="50" />
+      <br>
+      <img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FF0000&labelColor=000000&logo=github&logoColor=white&label=STARS" />
+      <br>
+      <sub><b>⭐ Total Stars</b></sub>
+    </td>
+  </tr>
+</table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=FF0000&label=PROFILE+VIEWS&labelColor=000000)
-![GitHub Followers](https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github&logoColor=white)
-![GitHub Stars](https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FF0000&labelColor=000000&logo=github&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+The+Future+One+Line+At+A+Time;Open+To+Collaborate+On+Exciting+Projects;Let's+Create+Something+Amazing+Together!" alt="Footer Message" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
