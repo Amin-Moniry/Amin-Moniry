@@ -169,8 +169,16 @@
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+The+Future+One+Line+At+A+Time;Open+To+Collaborate+On+Exciting+Projects;Let's+Create+Something+Amazing+Together!" alt="Footer Message" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling&fontAlignY=70" width="100%"/>
+
+<div align="center">
+  
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!" alt="Thanks" />
+</h2>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
 
 </div>
