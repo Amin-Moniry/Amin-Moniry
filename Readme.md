@@ -165,33 +165,8 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=Thanks+For+Visiting!+%E2%9C%A8;Let's+Build+Something+Epic!+%F0%9F%9A%80;Keep+Coding+%26+Stay+Awesome!+%F0%9F%94%A5" alt="Footer Message" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=200&section=footer&animation=fadeIn" width="100%"/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" /><br>
-<sub><b>💻 Keep Coding</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" /><br>
-<sub><b>🌟 Stay Creative</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" /><br>
-<sub><b>🔥 Build Dreams</b></sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Made+With+%E2%9D%A4%EF%B8%8F+By+Amin+Moniry;%C2%A9+2025+All+Rights+Reserved" alt="Copyright" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=00D9FF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 
 </div>
