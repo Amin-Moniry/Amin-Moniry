@@ -78,71 +78,17 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amin-moniry-pr7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFA500&text_color=FFFFFF&count_private=true&ring_color=FFD700&include_all_commits=true&line_height=21&custom_title=⚡+GitHub+Stats&rank_icon=percentile" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=dark&hide_border=true&background=0D1117&stroke=FFA500&ring=FFD700&fire=FFD700&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FFD700" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=📊+Real-Time+Performance+Metrics;🔥+Code+Statistics+%26+Achievements;⚡+Developer+Activity+Analysis" alt="Analytics Header" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-moniry-pr7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8&custom_title=💻+Most+Used+Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-moniry-pr7&bg_color=0D1117&color=FFA500&line=FFD700&point=FFFFFF&area=true&hide_border=true&title_color=FFD700&custom_title=📊+Contribution+Graph" />
 
-<br><br>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100">
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amin-moniry-pr7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFA500&text_color=FFFFFF&count_private=true&ring_color=FFD700" />
-      <br>
-      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=dark&hide_border=true&background=0D1117&stroke=FFA500&ring=FFD700&fire=FFD700&currStreakLabel=FFA500&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-      <br>
-      <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="40">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQXlQ3nHyLMvte/giphy.gif" width="100">
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-moniry-pr7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&langs_count=8" />
-      <br>
-      <img src="https://media.giphy.com/media/l378khQxt68syiNJm/giphy.gif" width="40">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-moniry-pr7&bg_color=0D1117&color=FFA500&line=FFD700&point=FFFFFF&area=true&hide_border=true&title_color=FFD700" />
-      <br>
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100">
-</p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amin-moniry-pr7&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=FFD700&text_color=FFFFFF&icon_color=FFA500" width="100%" alt="Trophy" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=🏆+Achievement+Unlocked!;⭐+Building+The+Future+With+Code;💎+Excellence+In+Every+Commit" alt="Achievement Footer" />
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amin-moniry-pr7&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=FFD700&text_color=FFFFFF&icon_color=FFA500&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
