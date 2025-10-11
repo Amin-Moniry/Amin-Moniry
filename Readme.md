@@ -139,7 +139,7 @@
 
 <div align="center">
 
-### 📊 Profile Statistics
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=FF0000&label=PROFILE+VIEWS&labelColor=000000)
 ![GitHub Followers](https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=00D9FF&labelColor=000000&logo=github&logoColor=white)
