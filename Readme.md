@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-allin1wrench.ir-9D4EDD?style=for-the-badge&labelColor=240046&logo=google-chrome&logoColor=white)](https://allin1wrench.ir)
-[![Telegram](https://img.shields.io/badge/📱_Telegram-@adc7amin7adc-FF006E?style=for-the-badge&labelColor=240046&logo=telegram&logoColor=white)](https://t.me/adc7amin7adc)
+[![Telegram](https://img.shields.io/badge/📱_Telegram-@amintivanix-FF006E?style=for-the-badge&labelColor=240046&logo=telegram&logoColor=white)](https://t.me/adc7amin7adc)
 [![YouTube](https://img.shields.io/badge/🎥_YouTube-Subscribe-FFD60A?style=for-the-badge&labelColor=240046&logo=youtube&logoColor=white)](https://www.youtube.com/@adc7aminoid7adc)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-7209B7?style=for-the-badge&labelColor=240046&logo=github&logoColor=white)](https://github.com/Amin-moniry-pr7)
 
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-FF006E?style=for-the-badge&logo=telegram&logoColor=white&labelColor=240046)](https://t.me/adc7amin7adc)
+[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-FF006E?style=for-the-badge&logo=telegram&logoColor=white&labelColor=240046)](https://t.me/@amintivanix)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FFD60A?style=for-the-badge&logo=youtube&logoColor=240046&labelColor=240046)](https://www.youtube.com/@adc7aminoid7adc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=240046)](https://allin1wrench.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-7209B7?style=for-the-badge&logo=github&logoColor=white&labelColor=240046)](https://github.com/Amin-moniry-pr7)
