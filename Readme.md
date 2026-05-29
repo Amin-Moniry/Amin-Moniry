@@ -106,7 +106,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=200040&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS&cacheSeconds=3600"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FFD60A&labelColor=000000&logo=github&logoColor=000000&label=STARS"/>
+<img src="https://img.shields.io/badge/STARS-37-FFD60A?style=for-the-badge&color=FFD60A&labelColor=000000&logo=github&logoColor=FFD60A"/>
 
 </div>
 
@@ -114,6 +114,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,200040,7B2FFF,200040&height=220&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Don't%20forget%20to%20Star%20and%20Subscribe&descSize=22&descColor=C8B8FF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
 
 </div>
