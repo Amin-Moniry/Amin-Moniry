@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,000000,6600cc,000000&height=320&section=header&text=AMIN%20MONIRY&fontSize=90&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=7B2FFF&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Network%20Security&descSize=20&descAlignY=68&descColor=C8B8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=250&section=header&text=AMIN%20MONIRY&fontSize=90&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Network%20Security&descSize=20&descAlignY=68&descColor=C8B8FF" width="100%"/>
 
 <br/>
 
@@ -46,7 +46,10 @@
   <img src="https://img.shields.io/badge/JSON_&_REST-ffffff?style=for-the-badge&logo=json&logoColor=black" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/HTML5-4CC9F0?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-7B2FFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=black" />
 </p>
 
 <br/>
