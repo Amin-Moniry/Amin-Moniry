@@ -20,72 +20,58 @@
 
 <div align="center">
 
-### 🌐 &nbsp; LANGUAGES I SPEAK &nbsp; 🌐
-
-| 🇮🇷 Persian | 🇬🇧 English | 🇹🇷 Turkish | 🇰🇷 Korean |
-|:-----------:|:----------:|:----------:|:--------:|
-| **Native** | **Fluent** | **Advanced** | **Intermediate** |
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ## ⚡ TECH STACK & EXPERTISE ⚡
 
-</div>
-
 <br/>
 
-<div align="center">
-
-### 💎 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" />
-
-<br/><br/>
-
-### 🤖 AI & Machine Learning
-
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0020"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0020"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logoColor=white&labelColor=0d0020"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Google%20Gemini-4CC9F0?style=for-the-badge&logo=google&logoColor=white&labelColor=0d0020"/></a>
-
-<br/><br/>
-
-### 🚀 Frameworks & Backend
-
-<a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=200040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=C8B8FF&labelColor=200040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/REST%20API-3A0CA3?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=200040"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JSON-FFD60A?style=for-the-badge&logo=json&logoColor=black&labelColor=1a1a00"/></a>
-
-<br/><br/>
-
-### 🛠️ DevOps & Infrastructure
-
-<a href="#"><img src="https://img.shields.io/badge/Docker-4361EE?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0030"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-FFD60A?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a00"/></a>
-<a href="#"><img src="https://img.shields.io/badge/WSL-7B2FFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0030"/></a>
-<a href="#"><img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=C8B8FF&labelColor=0a0030"/></a>
-
-<br/><br/>
-
-### 🌐 Networking & Security
-
-<a href="#"><img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0a0030"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Network%20Security-7B2FFF?style=for-the-badge&logo=shield&logoColor=white&labelColor=0a0030"/></a>
-
-<br/><br/>
-
-### ⚙️ Automation & Bots
-
-<a href="#"><img src="https://img.shields.io/badge/n8n-F72585?style=for-the-badge&logo=n8n&logoColor=white&labelColor=300010"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0030"/></a>
+<table align="center" style="border-collapse: collapse; border: none; background-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <h3>💻 Programming & Web</h3>
+      <img src="https://img.shields.io/badge/Python-FFD60A?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a" /><br><br>
+      <img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1a1a1a" /><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h3>🤖 AI & Data Science</h3>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Gemini-4CC9F0?style=for-the-badge&logo=google&logoColor=white&labelColor=0d0020" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h3>🛡️ Cyber & Network</h3>
+      <img src="https://img.shields.io/badge/Kali_Linux-4CC9F0?style=for-the-badge&logo=kalilinux&logoColor=black&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Cisco_CCNA-ffffff?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Nmap_&_Shodan-7B2FFF?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0020" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <br/><h3>⚙️ DevOps & Automation</h3>
+      <img src="https://img.shields.io/badge/Docker-4CC9F0?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0030" /><br><br>
+      <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0030" /><br><br>
+      <img src="https://img.shields.io/badge/n8n-F72585?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0030" /><br><br>
+      <img src="https://img.shields.io/badge/ngrok-ffffff?style=for-the-badge&logo=ngrok&logoColor=1F1E37&labelColor=0a0030" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <br/><h3>🎨 Design & Media</h3>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Content_&_Video-FFD60A?style=for-the-badge&logo=youtube&logoColor=black&labelColor=0d0020" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <br/><h3>💬 Bots & Protocols</h3>
+      <img src="https://img.shields.io/badge/Telegram_Bots-4CC9F0?style=for-the-badge&logo=telegram&logoColor=black&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/JSON_&_REST-FFD60A?style=for-the-badge&logo=json&logoColor=black&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/V2ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0d0020" /><br><br>
+      <img src="https://img.shields.io/badge/Network_Security-ffffff?style=for-the-badge&logo=shield&logoColor=black&labelColor=0d0020" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -119,45 +105,6 @@
 
 <div align="center">
 
-## 🏆 CORE COMPETENCIES
-
-</div>
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="22%">
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark"/><br/><br/>
-<b>🟣 Backend</b><br/>
-<sub>Python · Django · REST APIs</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark"/><br/><br/>
-<b>💙 Frontend</b><br/>
-<sub>JavaScript · HTML5 · CSS3</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/><br/><br/>
-<b>🤖 AI / ML</b><br/>
-<sub>Deep Learning · Neural Nets</sub>
-</td>
-<td align="center" width="22%">
-<img src="https://skillicons.dev/icons?i=docker,linux&theme=dark"/><br/><br/>
-<b>🟡 DevOps</b><br/>
-<sub>Docker · Linux · Automation</sub>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 📡 PROFILE METRICS
 
 <br/>
@@ -167,26 +114,6 @@
 <img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=4B00D1&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FFD60A&labelColor=1a1a00&logo=github&logoColor=black&label=STARS"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🤝 CONNECT WITH ME
-
-<br/>
-
-<a href="https://t.me/amintivanix2"><img src="https://img.shields.io/badge/Telegram-Message%20Me-7B2FFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0020"/></a>
-&nbsp;
-<a href="https://www.youtube.com/@aminoidtivanix2"><img src="https://img.shields.io/badge/YouTube-Subscribe-FFD60A?style=for-the-badge&logo=youtube&logoColor=black&labelColor=1a1a00"/></a>
-&nbsp;
-<a href="https://allin1wrench.ir"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-C8B8FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=200040"/></a>
-&nbsp;
-<a href="https://github.com/Amin-moniry-pr7"><img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=4B00D1"/></a>
 
 </div>
 
