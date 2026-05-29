@@ -24,54 +24,54 @@
 
 <br/>
 
-<table align="center" style="border-collapse: collapse; border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <h3>💻 Programming & Web</h3>
-      <img src="https://img.shields.io/badge/Python-FFD60A?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a" /><br><br>
-      <img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20&labelColor=1a1a1a" /><br><br>
-      <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" /><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h3>🤖 AI & Data Science</h3>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Gemini-4CC9F0?style=for-the-badge&logo=google&logoColor=white&labelColor=0d0020" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h3>🛡️ Cyber & Network</h3>
-      <img src="https://img.shields.io/badge/Kali_Linux-4CC9F0?style=for-the-badge&logo=kalilinux&logoColor=black&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Cisco_CCNA-ffffff?style=for-the-badge&logo=cisco&logoColor=1BA0D7&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Nmap_&_Shodan-7B2FFF?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0020" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <br/><h3>⚙️ DevOps & Automation</h3>
-      <img src="https://img.shields.io/badge/Docker-4CC9F0?style=for-the-badge&logo=docker&logoColor=black&labelColor=0a0030" /><br><br>
-      <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0030" /><br><br>
-      <img src="https://img.shields.io/badge/n8n-F72585?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0030" /><br><br>
-      <img src="https://img.shields.io/badge/ngrok-ffffff?style=for-the-badge&logo=ngrok&logoColor=1F1E37&labelColor=0a0030" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <br/><h3>🎨 Design & Media</h3>
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Content_&_Video-FFD60A?style=for-the-badge&logo=youtube&logoColor=black&labelColor=0d0020" />
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <br/><h3>💬 Bots & Protocols</h3>
-      <img src="https://img.shields.io/badge/Telegram_Bots-4CC9F0?style=for-the-badge&logo=telegram&logoColor=black&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/JSON_&_REST-FFD60A?style=for-the-badge&logo=json&logoColor=black&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/V2ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0d0020" /><br><br>
-      <img src="https://img.shields.io/badge/Network_Security-ffffff?style=for-the-badge&logo=shield&logoColor=black&labelColor=0d0020" />
-    </td>
-  </tr>
-</table>
+### 🛡️ Cybersecurity & Network Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH_Certified-7B2FFF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWK_|_OSCP-FFD60A?style=for-the-badge&logo=offsec&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-4CC9F0?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-ffffff?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
+  <img src="https://img.shields.io/badge/Nmap_&_Shodan-000000?style=for-the-badge&logo=powershell&logoColor=7B2FFF" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/V2ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white" />
+</p>
+
+<br/>
+
+### 💻 Software & Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD60A?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=4CC9F0" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON_&_REST-ffffff?style=for-the-badge&logo=json&logoColor=black" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark" />
+</p>
+
+<br/>
+
+### 🤖 Artificial Intelligence & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4CC9F0?style=for-the-badge&logo=google&logoColor=black" />
+</p>
+
+<br/>
+
+### ⚙️ DevOps, Automation & Media
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-4CC9F0?style=for-the-badge&logo=docker&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n_Automation-F72585?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-4CC9F0?style=for-the-badge&logo=telegram&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content_Creation-FFD60A?style=for-the-badge&logo=youtube&logoColor=black" />
+</p>
 
 </div>
 
@@ -85,17 +85,7 @@
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amin-moniry-pr7&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0020&title_color=C8B8FF&icon_color=FFD60A&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=GitHub+Statistics&rank_icon=percentile"/>
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=888888&stroke=4B00D1"/>
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-moniry-pr7&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0020&title_color=C8B8FF&text_color=ffffff&langs_count=8&custom_title=Top+Languages"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amin-moniry-pr7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=888888&stroke=4B00D1"/>
 
 </div>
 
