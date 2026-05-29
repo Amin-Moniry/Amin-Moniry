@@ -24,7 +24,7 @@
 
 <br/>
 
-### 🛡️ Cybersecurity & Network Engineering
+### Cybersecurity & Network Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/CEH_Certified-7B2FFF?style=for-the-badge&logo=hackthebox&logoColor=white&color=7B2FFF" />
   <img src="https://img.shields.io/badge/PWK_|_OSCP-FFD60A?style=for-the-badge&logo=offsec&logoColor=000000&color=FFD60A" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-### 💻 Software & Web Development
+### Software & Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD60A?style=for-the-badge&logo=python&logoColor=000000&color=FFD60A" />
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=C8B8FF&color=000000" />
@@ -54,7 +54,7 @@
 
 <br/>
 
-### 🤖 Artificial Intelligence & Data Science
+### AI & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-7B2FFF?style=for-the-badge&logo=pytorch&logoColor=ffffff&color=7B2FFF" />
   <img src="https://img.shields.io/badge/TensorFlow-FFD60A?style=for-the-badge&logo=tensorflow&logoColor=000000&color=FFD60A" />
@@ -64,7 +64,7 @@
 
 <br/>
 
-### ⚙️ DevOps, Automation & Media
+### DevOps, Automation & Media
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-7B2FFF?style=for-the-badge&logo=docker&logoColor=ffffff&color=7B2FFF" />
   <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=000000&color=FFD60A" />
@@ -93,6 +93,10 @@
 </div>
 
 <br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!%20and%20Subscribe%20to%20Our%20Youtube%20Channel!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
+</div>
+<br/>
 
 ---
 
@@ -111,9 +115,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
-
-</div>
