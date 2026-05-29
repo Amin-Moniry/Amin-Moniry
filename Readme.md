@@ -1,101 +1,203 @@
 <div align="center">
 
-# ⚡ Amin Moniry
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Data+Science+Engineer;Network+Security+Specialist;Content+Creator+%26+Educator" alt="Roles" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,000000,6600cc,000000&height=300&section=header&text=AMIN%20MONIRY&fontSize=80&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=7B2FFF&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Network%20Security&descSize=18&descAlignY=70&descColor=C8B8FF" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=google-chrome&logoColor=9D4EDD)](https://allin1wrench.ir)
-[![Telegram](https://img.shields.io/badge/Telegram-@amintivanix2-000000?style=flat-square&logo=telegram&logoColor=4CC9F0)](https://t.me/amintivanix2)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-000000?style=flat-square&logo=youtube&logoColor=FFD60A)](https://www.youtube.com/@aminoidtivanix2)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-000000?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/Amin-moniry-pr7)
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-allin1wrench.ir-black?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4B00D1)](https://allin1wrench.ir)
+[![Telegram](https://img.shields.io/badge/◈_TELEGRAM-@amintivanix2-black?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0050)](https://t.me/amintivanix2)
+[![YouTube](https://img.shields.io/badge/◈_YOUTUBE-Channel-black?style=for-the-badge&logo=youtube&logoColor=FFD60A&labelColor=0d0d0d)](https://www.youtube.com/@aminoidtivanix2)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-Follow-black?style=for-the-badge&logo=github&logoColor=white&labelColor=200040)](https://github.com/Amin-moniry-pr7)
+
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   Persian (Native)  ·  English (Fluent)  ·  Turkish (Advanced)  ·  Korean  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
 
 ---
 
-### 👨‍💻 Professional Summary
+<div align="center">
 
-I am a developer and cybersecurity enthusiast specializing in designing robust backend systems, advancing network security, and optimizing local artificial intelligence deployments. My work ranges from configuring complex architectural protocols—including penetration testing and secure networking—to building accessible software solutions like 3D visualizers for entrepreneurial teams such as Techno Sharif. Beyond code, I manage the digital brand AIGalaxyTivaniX, dedicating my time to digital education and technical video production.
+## ◈ TECHNICAL STACK
 
----
+</div>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=4000&pause=1000&color=4CC9F0&vCenter=true&width=350&lines=My+Skills+%26+Expertise" alt="Skills Header" />
+<br/>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <b>💻 Programming & Web</b><br><br>
-      <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FFD60A" />
-      <img src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=9D4EDD" />
-      <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=4CC9F0" /><br>
-      <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=4CC9F0" />
-      <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FFD60A" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <b>🤖 AI & Data Science</b><br><br>
-      <img src="https://img.shields.io/badge/-Artificial_Intelligence-000000?style=flat-square&logo=openai&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/-Machine_Learning-000000?style=flat-square&logo=scikitlearn&logoColor=4CC9F0" /><br>
-      <img src="https://img.shields.io/badge/-Deep_Learning-000000?style=flat-square&logo=keras&logoColor=9D4EDD" />
-      <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FFD60A" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <br><b>🌐 Networking & Systems</b><br><br>
-      <img src="https://img.shields.io/badge/-Networking-000000?style=flat-square&logo=speedtest&logoColor=4CC9F0" />
-      <img src="https://img.shields.io/badge/-CCNA_/_Cisco-000000?style=flat-square&logo=cisco&logoColor=FFFFFF" /><br>
-      <img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=FFD60A" />
-      <img src="https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=windows&logoColor=4CC9F0" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <br><b>🛠️ Tools & DevOps</b><br><br>
-      <img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=4CC9F0" />
-      <img src="https://img.shields.io/badge/-n8n-000000?style=flat-square&logo=n8n&logoColor=9D4EDD" />
-      <img src="https://img.shields.io/badge/-ngrok-000000?style=flat-square&logo=ngrok&logoColor=FFFFFF" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <br><b>🎥 Content & Media</b><br><br>
-      <img src="https://img.shields.io/badge/-Content_Creation-000000?style=flat-square&logo=youtube&logoColor=FFD60A" />
-      <img src="https://img.shields.io/badge/-Telegram-000000?style=flat-square&logo=telegram&logoColor=4CC9F0" /><br>
-      <img src="https://img.shields.io/badge/-Video_Editing-000000?style=flat-square&logo=adobe-premiere-pro&logoColor=9D4EDD" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <br><b>🌍 Languages</b><br><br>
-      <img src="https://img.shields.io/badge/-Persian-000000?style=flat-square&logo=googletranslate&logoColor=9D4EDD" />
-      <img src="https://img.shields.io/badge/-English-000000?style=flat-square&logo=googletranslate&logoColor=4CC9F0" /><br>
-      <img src="https://img.shields.io/badge/-Turkish-000000?style=flat-square&logo=googletranslate&logoColor=FFD60A" />
-      <img src="https://img.shields.io/badge/-Korean-000000?style=flat-square&logo=googletranslate&logoColor=FFFFFF" />
-    </td>
-  </tr>
+<div align="center">
+
+**— LANGUAGES —**
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=FFD60A&labelColor=000000)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=FFD60A&labelColor=0d0d0d)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=C8B8FF&labelColor=000000)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=7B2FFF&labelColor=000000)
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center" width="200">
+
+**BACKEND**
+```
+Python
+Django
+REST APIs
+Flask
+```
+
+</td>
+<td align="center" width="200">
+
+**AI / ML**
+```
+PyTorch
+TensorFlow
+Ollama
+Gemini
+```
+
+</td>
+<td align="center" width="200">
+
+**DEVOPS**
+```
+Docker
+Linux
+WSL
+ngrok
+```
+
+</td>
+<td align="center" width="200">
+
+**SECURITY**
+```
+Cisco CCNA
+Network Security
+n8n Automation
+Telegram Bots
+```
+
+</td>
+</tr>
 </table>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amin-moniry-pr7&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=9D4EDD&icon_color=FFD60A&text_color=FFFFFF&ring_color=4CC9F0&include_all_commits=true&custom_title=GitHub+Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=dark&hide_border=true&background=000000&stroke=9D4EDD&ring=4CC9F0&fire=FFD60A&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-moniry-pr7&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=4CC9F0&text_color=FFFFFF&langs_count=8&custom_title=Most+Used+Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-moniry-pr7&bg_color=000000&color=FFFFFF&line=9D4EDD&point=FFD60A&area=true&hide_border=true&title_color=4CC9F0&custom_title=Contribution+Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amin-moniry-pr7&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7&title_color=9D4EDD&text_color=FFFFFF&icon_color=FFD60A&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophy" />
-</p>
+<br/>
 
 ---
 
-### 📈 Profile Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=000000" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=flat-square&color=4CC9F0&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=flat-square&color=FFD60A&labelColor=000000&logo=github&logoColor=white&label=STARS" />
-</p>
+## ◈ GITHUB ANALYTICS
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amin-moniry-pr7&show_icons=true&theme=transparent&hide_border=false&bg_color=000000&border_color=4B00D1&title_color=C8B8FF&icon_color=FFD60A&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=Statistics&rank_icon=percentile&border_radius=0"/>
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=transparent&hide_border=false&background=000000&border=4B00D1&stroke=4B00D1&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=C8B8FF&dates=888888&border_radius=0"/>
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-moniry-pr7&layout=compact&theme=transparent&hide_border=false&bg_color=000000&border_color=4B00D1&title_color=C8B8FF&text_color=ffffff&langs_count=8&custom_title=Languages&border_radius=0"/>
+&nbsp;
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-moniry-pr7&bg_color=000000&color=C8B8FF&line=4B00D1&point=FFD60A&area=true&hide_border=false&border_color=4B00D1&custom_title=Contribution+Graph&radius=0"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amin-moniry-pr7&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=C8B8FF&icon_color=FFD60A" width="100%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ◈ COMPETENCIES
+
+</div>
+
+<br/>
+
+<table align="center" border="0" width="100%">
+<tr>
+<td align="left" width="50%" valign="top">
+
+**▸ BACKEND DEVELOPMENT**
+> Python · Django · REST APIs · Flask · JSON · Data Pipelines
+
+**▸ AI & MACHINE LEARNING**
+> PyTorch · TensorFlow · Deep Learning · Neural Networks · Ollama · Gemini
+
+</td>
+<td align="left" width="50%" valign="top">
+
+**▸ FRONTEND DEVELOPMENT**
+> JavaScript · HTML5 · CSS3 · Responsive Design · React
+
+**▸ DEVOPS & SYSTEMS**
+> Docker · Linux · WSL · ngrok · Automation · CI/CD
+
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+
+**▸ NETWORK & SECURITY**
+> Cisco CCNA · Network Security · Infrastructure · Protocols
+
+</td>
+<td align="left" valign="top">
+
+**▸ AUTOMATION & BOTS**
+> n8n · Telegram Bots · Workflow Automation · API Integration
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+## ◈ METRICS
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=flat-square&color=4B00D1&label=PROFILE+VIEWS&labelColor=000000)
+&nbsp;&nbsp;
+![Followers](https://img.shields.io/github/followers/Amin-moniry-pr7?style=flat-square&color=7B2FFF&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS)
+&nbsp;&nbsp;
+![Stars](https://img.shields.io/github/stars/Amin-moniry-pr7?style=flat-square&color=FFD60A&labelColor=000000&logo=github&logoColor=black&label=STARS)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000,200040,000000&height=60&section=footer&text=Let%27s+Build+The+Future+Together&fontSize=20&fontColor=C8B8FF&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
