@@ -104,7 +104,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS&labelColor=0d0020"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=4B00D1&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=4B00D1&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS&cacheSeconds=3600"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/stars/Amin-moniry-pr7?style=for-the-badge&color=FFD60A&labelColor=1a1a00&logo=github&logoColor=black&label=STARS"/>
 
@@ -114,6 +114,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,200040,6600cc,200040&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Let%27s%20Build%20The%20Future%20Together&descSize=20&descColor=C8B8FF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=1,7B2FFF,200040&height=220&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Don't%20forget%20to%20Star%20⭐%20and%20Subscribe%20📺&descSize=22&descColor=C8B8FF&descAlignY=65" width="100%"/>
 
 </div>
