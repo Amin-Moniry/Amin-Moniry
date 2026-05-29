@@ -102,9 +102,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amin-moniry-pr7&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS&labelColor=0d0020"/>
+<img src="https://komarev.com/ghpvc/?username=Amin-moniry&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS&labelColor=0d0020"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Amin-moniry-pr7?style=for-the-badge&color=200040&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS&cacheSeconds=3600"/>
+<img src="https://img.shields.io/github/followers/Amin-moniry?style=for-the-badge&color=200040&labelColor=0d0020&logo=github&logoColor=C8B8FF&label=FOLLOWERS&cacheSeconds=3600"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STARS-37-FFD60A?style=for-the-badge&color=FFD60A&labelColor=000000&logo=github&logoColor=FFD60A"/>
 
