@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://www.youtube.com/@aminoidtivanix2"><img src="https://img.shields.io/badge/◈%20YOUTUBE-Subscribe-FFD60A?style=for-the-badge&logo=youtube&logoColor=FFD60A&labelColor=000000&color=200040"/></a>
 &nbsp;
-<a href="https://github.com/Amin-moniry-pr7"><img src="https://img.shields.io/badge/◈%20GITHUB-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=C8B8FF&color=ffffff"/></a>
+<a href="https://github.com/Amin-moniry"><img src="https://img.shields.io/badge/◈%20GITHUB-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=C8B8FF&color=ffffff"/></a>
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <br/>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry-pr7&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=C8B8FF&stroke=4B00D1"/>
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-moniry&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=C8B8FF&stroke=4B00D1"/>
 
 </div>
 
