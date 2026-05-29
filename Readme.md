@@ -93,10 +93,6 @@
 </div>
 
 <br/>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=footer&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!%20and%20Subscribe%20to%20Our%20Youtube%20Channel!&descSize=25&descAlign=50&descAlignY=60" width="100%"/>
-</div>
-<br/>
 
 ---
 
@@ -115,3 +111,7 @@
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!%20Please%20Consider%20Following%20My%20GitHub.&descSize=22&descAlign=50&descAlignY=60" width="100%"/>
+</div>
