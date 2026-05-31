@@ -146,83 +146,6 @@
 
 <div align="center">
 
-## `◈` Featured Projects
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=7B2FFF&center=true&vCenter=true&width=500&height=28&lines=%E2%97%89+Selected+work+from+my+repositories"/>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**[adcAM Sniffer v5.1](https://github.com/Amin-Moniry/adcAM-Sniffer-A-Mini-Wireshark)**
-
-<img src="https://img.shields.io/badge/Network-Analyzer-7B2FFF?style=flat-square&labelColor=0d0020"/>
-
-Real-time packet capture & credential detection. Multi-protocol live dashboard.
-
-`Python` · `Scapy` · `Eel` · `SQLite`
-
-</td>
-<td align="center" width="33%">
-
-**[Smart Telegram Bot](https://github.com/Amin-Moniry)**
-
-<img src="https://img.shields.io/badge/AI-Automation-FFD60A?style=flat-square&labelColor=000000"/>
-
-Dual-agent AI bot with Gmail, Drive & Sheets. n8n + Ollama + Gemini powered.
-
-`n8n` · `Ollama` · `Gemini` · `Docker`
-
-</td>
-<td align="center" width="33%">
-
-**[P8GP-G01](https://github.com/Amin-Moniry/P8GP-G01)**
-
-<img src="https://img.shields.io/badge/Safety-Detection-C8B8FF?style=flat-square&labelColor=200040"/>
-
-Real-time safety monitoring. Helmet, mask, fire & smoke via YOLO.
-
-`Python` · `YOLO` · `PyQt6` · `OpenCV`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
-## `◈` Currently
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=7B2FFF&center=true&vCenter=true&width=500&height=28&lines=%E2%97%89+What+I%27m+working+on+right+now"/>
-
-<br/>
-
-| | Focus |
-|:---:|:---|
-| `⚡ Building` | Advanced AI automation pipelines with n8n + LLMs |
-| `📖 Learning` | Advanced penetration testing — OSCP prep |
-| `🔬 Researching` | Local LLM deployment & edge AI inference |
-| `🎯 Goal 2026` | Full OSCP certification + 3 major open-source releases |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-
 ## `◈` GitHub Analytics
 
 <br/>
@@ -259,10 +182,10 @@ Real-time safety monitoring. Helmet, mask, fire & smoke via YOLO.
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=7B2FFF&center=true&vCenter=true&width=720&height=50&lines=%E2%96%B6+Engineered+by+Amin+Moniry+(AminTivanix2);%E2%97%8F+Security+%C2%B7+AI+%C2%B7+Fullstack+%C2%B7+Open+Source+%C2%B7+2026;%E2%96%B6+Build.+Break.+Learn.+Repeat."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=C8B8FF&center=true&vCenter=true&width=720&height=50&lines=%E2%96%B6+Engineered+by+Amin+Moniry+(AminTivanix2);%E2%97%8F+Security+%C2%B7+AI+%C2%B7+Fullstack+%C2%B7+Open+Source+%C2%B7+2026;%E2%96%B6+Build.+Break.+Learn.+Repeat."/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:7B2FFF,100:FFD60A&height=200&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Amin%20Moniry%20(AminTivanix2)%20%E2%80%94%20Open%20Source%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%202026&descSize=18&descAlign=50&descAlignY=62&descColor=FFD60A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=C8B8FF&animation=twinkling&desc=Amin%20Moniry%20(AminTivanix2)%20%E2%80%94%20Open%20Source%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%202026&descSize=18&descAlign=50&descAlignY=62&descColor=E0AAFF" width="100%"/>
 
 </div>
