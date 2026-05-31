@@ -31,11 +31,7 @@
 <br/>
 
 <p>
-I'm Amin Moniry, a software engineer and security researcher
-based in Tabriz, Iran. I specialize in AI engineering, network
-security, and full-stack development — building open-source tools
-that solve real-world problems across automation, computer vision,
-and penetration testing.
+I am a software engineer and security researcher based in Tabriz, Iran, with a primary focus on AI engineering, network security, and full-stack development. My professional objective is to create open-source tools that solve tangible problems across automation, computer vision, and penetration testing. I am committed to building efficient, secure, and accessible software solutions that empower both developers and security professionals.
 </p>
 
 </div>
