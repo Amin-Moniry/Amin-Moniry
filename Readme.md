@@ -173,6 +173,6 @@ I am a software engineer and security researcher based in Tabriz, Iran, with a p
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Your%20support%20is%20appreciated.&fontSize=24&fontAlign=50&fontAlignY=60&fontColor=E0AAFF&desc=Follow%20for%20future%20technical%20developments.&descSize=16&descAlign=50&descAlignY=80&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Your%20support%20is%20appreciated.&fontSize=30&fontAlign=50&fontAlignY=60&fontColor=E0AAFF&desc=Follow%20for%20future%20technical%20developments.&descSize=16&descAlign=50&descAlignY=80&animation=twinkling" width="100%"/>
 
 </div>
