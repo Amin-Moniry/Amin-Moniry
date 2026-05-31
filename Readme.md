@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Amin%20Moniry&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Network%20Security&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=16&duration=3000&pause=800&color=7B2FFF&center=true&vCenter=true&width=700&height=35&lines=%E2%96%B6+SYSTEMS+ONLINE+%E2%80%94+ALL+MODULES+LOADED;%E2%97%8F+AI+%C2%B7+SECURITY+%C2%B7+FULLSTACK+%C2%B7+AUTOMATION;%E2%96%B6+BUILDING+THE+FUTURE+FROM+TABRIZ%2C+IRAN"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3000&pause=800&color=7B2FFF&center=true&vCenter=true&width=700&height=35&lines=%E2%96%B6+SYSTEMS+ONLINE+%E2%80%94+ALL+MODULES+LOADED;%E2%97%8F+AI+%C2%B7+SECURITY+%C2%B7+FULLSTACK+%C2%B7+AUTOMATION;%E2%96%B6+BUILDING+THE+FUTURE+FROM+TABRIZ%2C+IRAN"/>
 
 <br/>
 
@@ -29,9 +31,10 @@
 <br/>
 
 ```
-  Developer by passion — Security researcher by mindset — AI builder by choice.
-  Self-taught engineer from Tabriz, Iran. I build tools that solve real problems:
-  network analyzers, AI automation systems, and full-stack web platforms.
+  Self-taught engineer from Tabriz, Iran.
+  I build tools that solve real problems — network analyzers,
+  AI automation systems, and full-stack web platforms.
+  Security researcher by mindset. AI builder by choice.
 ```
 
 </div>
@@ -50,145 +53,88 @@
 
 <br/>
 
-<!-- ███ CYBERSECURITY ███ -->
 <div align="center">
-<table><tr><td>
 
-```
- ◈  CYBERSECURITY & NETWORK
-```
+**`//` Cybersecurity & Network Engineering**
 
-</td></tr></table>
+<br/>
 
-<svg width="680" height="130" viewBox="0 0 680 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow1">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <!-- Row 1 -->
-  <polygon points="60,10 110,10 135,52 110,94 60,94 35,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="85" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">CEH</text>
-  <text x="85" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Certified</text>
-
-  <polygon points="145,10 195,10 220,52 195,94 145,94 120,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="170" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">OSCP</text>
-  <text x="170" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">PWK/OffSec</text>
-
-  <polygon points="230,10 280,10 305,52 280,94 230,94 205,52" fill="#0d0020" stroke="#FFD60A" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="255" y="45" text-anchor="middle" fill="#FFD60A" font-size="9" font-family="monospace" font-weight="bold">CCNA</text>
-  <text x="255" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Cisco</text>
-
-  <polygon points="315,10 365,10 390,52 365,94 315,94 290,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="340" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">Kali</text>
-  <text x="340" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Linux</text>
-
-  <polygon points="400,10 450,10 475,52 450,94 400,94 375,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="425" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">Nmap</text>
-  <text x="425" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Shodan</text>
-
-  <polygon points="485,10 535,10 560,52 535,94 485,94 460,52" fill="#0d0020" stroke="#C8B8FF" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="510" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">V2Ray</text>
-  <text x="510" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">VPN</text>
-
-  <polygon points="570,10 620,10 645,52 620,94 570,94 545,52" fill="#0d0020" stroke="#FFD60A" stroke-width="1.5" filter="url(#glow1)"/>
-  <text x="595" y="45" text-anchor="middle" fill="#FFD60A" font-size="9" font-family="monospace" font-weight="bold">Cloud</text>
-  <text x="595" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">flare</text>
-</svg>
+<img src="https://img.shields.io/badge/CEH_Certified-7B2FFF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/PWK_|_OSCP-FFD60A?style=for-the-badge&logo=offsec&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Cisco_CCNA-7B2FFF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Kali_Linux-C8B8FF?style=for-the-badge&logo=kalilinux&logoColor=000000&labelColor=0d0020"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Nmap_&_Shodan-7B2FFF?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Cloudflare-FFD60A?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/V2Ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Wireshark-C8B8FF?style=for-the-badge&logo=wireshark&logoColor=000000&labelColor=0d0020"/>
 
 </div>
 
 <br/>
 
-<!-- ███ SOFTWARE & WEB ███ -->
 <div align="center">
-<table><tr><td>
 
-```
- ◈  SOFTWARE & WEB DEVELOPMENT
-```
+**`//` Software & Web Development**
 
-</td></tr></table>
+<br/>
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,html,css&theme=dark&perline=7"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Python-FFD60A?style=for-the-badge&logo=python&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Django-7B2FFF?style=for-the-badge&logo=django&logoColor=ffffff&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Django-7B2FFF?style=for-the-badge&logo=django&logoColor=white&labelColor=0d0020"/>
 <img src="https://img.shields.io/badge/Flask-C8B8FF?style=for-the-badge&logo=flask&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/FastAPI-200040?style=for-the-badge&logo=fastapi&logoColor=C8B8FF&labelColor=0d0020"/>
-<br/>
+<img src="https://img.shields.io/badge/FastAPI-7B2FFF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d0020"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/JavaScript-FFD60A?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/HTML5-7B2FFF?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/CSS3-200040?style=for-the-badge&logo=css3&logoColor=C8B8FF&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/REST_API-C8B8FF?style=for-the-badge&logo=json&logoColor=000000&labelColor=0d0020"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-7B2FFF?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/CSS3-C8B8FF?style=for-the-badge&logo=css3&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/REST_API-FFD60A?style=for-the-badge&logo=json&logoColor=000000&labelColor=0d0020"/>
 
 </div>
 
 <br/>
 
-<!-- ███ AI ███ -->
 <div align="center">
-<table><tr><td>
 
-```
- ◈  AI & DATA SCIENCE
-```
+**`//` AI & Data Science**
 
-</td></tr></table>
+<br/>
 
-<svg width="560" height="130" viewBox="0 0 560 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow2">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <polygon points="60,10 110,10 135,52 110,94 60,94 35,52" fill="#0d0020" stroke="#FFD60A" stroke-width="1.5" filter="url(#glow2)"/>
-  <text x="85" y="45" text-anchor="middle" fill="#FFD60A" font-size="9" font-family="monospace" font-weight="bold">PyTorch</text>
-  <text x="85" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Deep ML</text>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=7"/>
 
-  <polygon points="145,10 195,10 220,52 195,94 145,94 120,52" fill="#0d0020" stroke="#FFD60A" stroke-width="1.5" filter="url(#glow2)"/>
-  <text x="170" y="45" text-anchor="middle" fill="#FFD60A" font-size="9" font-family="monospace" font-weight="bold">TensorFlow</text>
-  <text x="170" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Neural Nets</text>
+<br/><br/>
 
-  <polygon points="230,10 280,10 305,52 280,94 230,94 205,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow2)"/>
-  <text x="255" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">YOLO</text>
-  <text x="255" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Detection</text>
-
-  <polygon points="315,10 365,10 390,52 365,94 315,94 290,52" fill="#0d0020" stroke="#C8B8FF" stroke-width="1.5" filter="url(#glow2)"/>
-  <text x="340" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">Ollama</text>
-  <text x="340" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Local LLM</text>
-
-  <polygon points="400,10 450,10 475,52 450,94 400,94 375,52" fill="#0d0020" stroke="#7B2FFF" stroke-width="1.5" filter="url(#glow2)"/>
-  <text x="425" y="45" text-anchor="middle" fill="#C8B8FF" font-size="9" font-family="monospace" font-weight="bold">Gemini</text>
-  <text x="425" y="58" text-anchor="middle" fill="#7B2FFF" font-size="8" font-family="monospace">Google AI</text>
-</svg>
+<img src="https://img.shields.io/badge/PyTorch-FFD60A?style=for-the-badge&logo=pytorch&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/TensorFlow-7B2FFF?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/YOLO_Ultralytics-C8B8FF?style=for-the-badge&logo=yolo&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Ollama-7B2FFF?style=for-the-badge&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Google_Gemini-FFD60A?style=for-the-badge&logo=google&logoColor=000000&labelColor=0d0020"/>
 
 </div>
 
 <br/>
 
-<!-- ███ DEVOPS ███ -->
 <div align="center">
-<table><tr><td>
 
-```
- ◈  DEVOPS, AUTOMATION & MEDIA
-```
+**`//` DevOps, Automation & Media**
 
-</td></tr></table>
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-7B2FFF?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=0d0020"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,ps&theme=dark&perline=7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-7B2FFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0020"/>
 <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/n8n-200040?style=for-the-badge&logo=n8n&logoColor=C8B8FF&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Telegram_Bots-C8B8FF?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=0d0020"/>
-<br/>
-<img src="https://img.shields.io/badge/Photoshop-7B2FFF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-200040?style=for-the-badge&logo=adobepremierepro&logoColor=C8B8FF&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Content_Creation-FFD60A?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=0d0020"/>
-</p>
+<img src="https://img.shields.io/badge/n8n_Automation-C8B8FF?style=for-the-badge&logo=n8n&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Telegram_Bots-7B2FFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0020"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Photoshop-FFD60A?style=for-the-badge&logo=adobephotoshop&logoColor=000000&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Premiere_Pro-7B2FFF?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=0d0020"/>
+<img src="https://img.shields.io/badge/Content_Creation-C8B8FF?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=0d0020"/>
 
 </div>
 
@@ -214,9 +160,9 @@
 
 <img src="https://img.shields.io/badge/Network-Analyzer-7B2FFF?style=flat-square&labelColor=0d0020"/>
 
-Real-time packet capture & credential detection tool. Multi-protocol support with live dashboard.
+Real-time packet capture & credential detection. Multi-protocol live dashboard.
 
-`Python` · `Scapy` · `PyQt` · `SQLite`
+`Python` · `Scapy` · `Eel` · `SQLite`
 
 </td>
 <td align="center" width="33%">
@@ -225,7 +171,7 @@ Real-time packet capture & credential detection tool. Multi-protocol support wit
 
 <img src="https://img.shields.io/badge/AI-Automation-FFD60A?style=flat-square&labelColor=000000"/>
 
-Dual-agent AI bot with Gmail, Drive, Sheets integration. n8n + Ollama + Gemini powered.
+Dual-agent AI bot with Gmail, Drive & Sheets. n8n + Ollama + Gemini powered.
 
 `n8n` · `Ollama` · `Gemini` · `Docker`
 
@@ -234,9 +180,9 @@ Dual-agent AI bot with Gmail, Drive, Sheets integration. n8n + Ollama + Gemini p
 
 **[P8GP-G01](https://github.com/Amin-Moniry/P8GP-G01)**
 
-<img src="https://img.shields.io/badge/Safety-Monitoring-C8B8FF?style=flat-square&labelColor=200040"/>
+<img src="https://img.shields.io/badge/Safety-Detection-C8B8FF?style=flat-square&labelColor=200040"/>
 
-Real-time safety detection system. Helmet, mask, fire & smoke detection via YOLO.
+Real-time safety monitoring. Helmet, mask, fire & smoke via YOLO.
 
 `Python` · `YOLO` · `PyQt6` · `OpenCV`
 
@@ -260,8 +206,8 @@ Real-time safety detection system. Helmet, mask, fire & smoke detection via YOLO
 
 <br/>
 
-| Status | Focus |
-|:------:|:-----:|
+| | Focus |
+|:---:|:---|
 | `⚡ Building` | Advanced AI automation pipelines with n8n + LLMs |
 | `📖 Learning` | Advanced penetration testing — OSCP prep |
 | `🔬 Researching` | Local LLM deployment & edge AI inference |
@@ -313,10 +259,10 @@ Real-time safety detection system. Helmet, mask, fire & smoke detection via YOLO
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=7B2FFF&center=true&vCenter=true&width=720&height=50&lines=%E2%96%B6+Engineered+by+Amin+Moniry+(AminTivanix2);%E2%97%8F+Security+%C2%B7+AI+%C2%B7+Fullstack+%C2%B7+Open+Source+%C2%B7+2026;%E2%96%B6+Let%27s+Build+The+Future+Together"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=7B2FFF&center=true&vCenter=true&width=720&height=50&lines=%E2%96%B6+Engineered+by+Amin+Moniry+(AminTivanix2);%E2%97%8F+Security+%C2%B7+AI+%C2%B7+Fullstack+%C2%B7+Open+Source+%C2%B7+2026;%E2%96%B6+Build.+Break.+Learn.+Repeat."/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=E0AAFF&animation=twinkling&desc=Let's%20Build%20The%20Future%20Together!%20Please%20Consider%20Following%20My%20GitHub.&descSize=22&descAlign=50&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:7B2FFF,100:FFD60A&height=200&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Amin%20Moniry%20(AminTivanix2)%20%E2%80%94%20Open%20Source%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%202026&descSize=18&descAlign=50&descAlignY=62&descColor=FFD60A" width="100%"/>
 
 </div>
