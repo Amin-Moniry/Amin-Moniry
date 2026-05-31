@@ -31,9 +31,11 @@
 <br/>
 
 <p>
-Self-taught engineer from Tabriz, Iran.<br/>
-I build tools that solve real problems — network analyzers, AI automation systems, and full-stack web platforms.<br/>
-Security researcher by mindset. AI builder by choice.
+I'm Amin Moniry, a software engineer and security researcher
+based in Tabriz, Iran. I specialize in AI engineering, network
+security, and full-stack development — building open-source tools
+that solve real-world problems across automation, computer vision,
+and penetration testing.
 </p>
 
 </div>
@@ -185,6 +187,6 @@ Security researcher by mindset. AI builder by choice.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=38&fontAlign=50&fontAlignY=40&fontColor=C8B8FF&animation=twinkling&desc=Amin%20Moniry%20(AminTivanix2)%20%E2%80%94%20Open%20Source%20%C2%B7%20Security%20%C2%B7%20AI%20%C2%B7%202026&descSize=18&descAlign=50&descAlignY=62&descColor=E0AAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Consider%20following%20if%20you%20find%20my%20work%20valuable.&fontSize=22&fontAlign=50&fontAlignY=50&fontColor=E0AAFF&animation=twinkling" width="100%"/>
 
 </div>
