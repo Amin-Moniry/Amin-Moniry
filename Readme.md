@@ -179,10 +179,6 @@ I am a software engineer and security researcher based in Tabriz, Iran, with a p
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3500&pause=900&color=C8B8FF&center=true&vCenter=true&width=720&height=50&lines=%E2%96%B6+Engineered+by+Amin+Moniry+(AminTivanix2);%E2%97%8F+Security+%C2%B7+AI+%C2%B7+Fullstack+%C2%B7+Open+Source+%C2%B7+2026;%E2%96%B6+Build.+Break.+Learn.+Repeat."/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Consider%20following%20if%20you%20find%20my%20work%20valuable.&fontSize=22&fontAlign=50&fontAlignY=50&fontColor=E0AAFF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Follow%20to%20stay%20updated%20on%20my%20latest%20research%20and%20open-source%20projects.&fontSize=22&fontAlign=50&fontAlignY=50&fontColor=E0AAFF&animation=twinkling" width="100%"/>
 
 </div>
