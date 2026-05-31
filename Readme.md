@@ -30,12 +30,11 @@
 
 <br/>
 
-```
-  Self-taught engineer from Tabriz, Iran.
-  I build tools that solve real problems — network analyzers,
-  AI automation systems, and full-stack web platforms.
-  Security researcher by mindset. AI builder by choice.
-```
+<p>
+Self-taught engineer from Tabriz, Iran.<br/>
+I build tools that solve real problems — network analyzers, AI automation systems, and full-stack web platforms.<br/>
+Security researcher by mindset. AI builder by choice.
+</p>
 
 </div>
 
