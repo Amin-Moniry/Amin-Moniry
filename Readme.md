@@ -58,8 +58,6 @@ Dedicated Software Engineer specializing in Artificial Intelligence, Computer Vi
 
 <img src="https://img.shields.io/badge/Cisco_CCNA-7B2FFF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0020"/>
 <img src="https://img.shields.io/badge/Linux_&_WSL-FFD60A?style=for-the-badge&logo=linux&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Cloudflare-FFD60A?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/V2Ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0d0020"/>
 
 </div>
 
