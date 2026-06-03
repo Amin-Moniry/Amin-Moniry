@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Amin%20Moniry&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Network%20Security&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Amin%20Moniry&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3000&pause=800&color=7B2FFF&center=true&vCenter=true&width=700&height=35&lines=%E2%96%B6+SYSTEMS+ONLINE+%E2%80%94+ALL+MODULES+LOADED;%E2%97%8F+AI+%C2%B7+SECURITY+%C2%B7+FULLSTACK+%C2%B7+AUTOMATION;%E2%96%B6+BUILDING+THE+FUTURE+FROM+TABRIZ%2C+IRAN"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=15&duration=3000&pause=800&color=7B2FFF&center=true&vCenter=true&width=700&height=35&lines=%E2%96%B6+SYSTEMS+ONLINE+%E2%80%94+ALL+MODULES+LOADED;%E2%97%8F+AI+%C2%B7+MACHINE+LEARNING+%C2%B7+FULLSTACK+%C2%B7+AUTOMATION;%E2%96%B6+BUILDING+THE+FUTURE+FROM+TABRIZ%2C+IRAN"/>
 
 <br/>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <p>
-I am a software engineer and security researcher based in Tabriz, Iran, with a primary focus on AI engineering, network security, and full-stack development. My professional objective is to create open-source tools that solve tangible problems across automation, computer vision, and penetration testing. I am committed to building efficient, secure, and accessible software solutions that empower both developers and security professionals.
+Dedicated Software Engineer specializing in Artificial Intelligence, Computer Vision, and Full-Stack Development. Focused on architecting scalable backend systems, designing automated workflows, and integrating complex machine learning models into high-performance applications. I thrive on bridging theoretical AI concepts with practical, robust software solutions.
 </p>
 
 </div>
@@ -45,26 +45,6 @@ I am a software engineer and security researcher based in Tabriz, Iran, with a p
 ## `◈` Tech Stack & Expertise
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=999999&color=7B2FFF&center=true&vCenter=true&width=500&height=28&lines=%E2%97%89+Core+skills+across+all+domains"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**`//` Cybersecurity & Network Engineering**
-
-<br/>
-
-<img src="https://img.shields.io/badge/CEH_Certified-7B2FFF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/PWK_|_OSCP-FFD60A?style=for-the-badge&logo=offsec&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Cisco_CCNA-7B2FFF?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Kali_Linux-C8B8FF?style=for-the-badge&logo=kalilinux&logoColor=000000&labelColor=0d0020"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Nmap_&_Shodan-7B2FFF?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Cloudflare-FFD60A?style=for-the-badge&logo=cloudflare&logoColor=000000&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/V2Ray_&_VPN-7B2FFF?style=for-the-badge&logo=wireguard&logoColor=white&labelColor=0d0020"/>
-<img src="https://img.shields.io/badge/Wireshark-C8B8FF?style=for-the-badge&logo=wireshark&logoColor=000000&labelColor=0d0020"/>
 
 </div>
 
@@ -171,8 +151,10 @@ I am a software engineer and security researcher based in Tabriz, Iran, with a p
 
 </div>
 
-<br/>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0020,50:4B00D1,100:7B2FFF&height=200&section=footer&text=Your%20support%20is%20appreciated.&fontSize=30&fontAlign=50&fontAlignY=60&fontColor=E0AAFF&desc=Follow%20for%20future%20technical%20developments.&descSize=16&descAlign=50&descAlignY=80&animation=twinkling" width="100%"/>
-
+<div align="center">
+  <h3>◈ Technical Developments & Portfolio ◈</h3>
+  <p>Explore my complete system architectures and interactive projects at <a href="https://allin1wrench.ir">allin1wrench.ir</a></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=100&section=footer" width="100%"/>
 </div>
