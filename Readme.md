@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=280&section=header&text=Amin%20Moniry&fontSize=95&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=7B2FFF&strokeWidth=3&fontAlign=50&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=68&descColor=C8B8FF&descAlign=50" width="100%"/>
+# Amin Moniry
+
+### Software Engineer | AI & Machine Learning | Full Stack Developer
 
 <br/>
 
