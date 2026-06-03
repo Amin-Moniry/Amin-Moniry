@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://t.me/amintivanix2"><img src="https://img.shields.io/badge/◈%20TELEGRAM-%40amintivanix2-C8B8FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=200040&color=7B2FFF"/></a>
 &nbsp;
-<a href="https://www.youtube.com/@aminoidtivanix2"><img src="https://img.shields.io/badge/◈%20YOUTUBE-Subscribe-FFD60A?style=for-the-badge&logo=youtube&logoColor=FFD60A&labelColor=000000&color=200040"/></a>
+<a href="https://www.youtube.com/@aminoidtivanix2"><img src="https://img.shields.io/badge/◈%20YOUTUBE-Subscribe-C8B8FF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=200040&color=7B2FFF"/></a>
 &nbsp;
 <a href="https://github.com/Amin-moniry"><img src="https://img.shields.io/badge/◈%20GITHUB-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=C8B8FF&color=ffffff"/></a>
 
