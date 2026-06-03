@@ -147,7 +147,7 @@ I am a software engineer and security researcher based in Tabriz, Iran, with a p
 
 <br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=Amin-moniry&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=C8B8FF&stroke=4B00D1"/>
+<img width="60%" src="https://github-readme-streak-stats.vercel.app/?user=Amin-moniry&theme=midnight-purple&hide_border=true&background=0d0020&ring=7B2FFF&fire=FFD60A&currStreakLabel=ffffff&sideNums=C8B8FF&sideLabels=C8B8FF&dates=C8B8FF&stroke=4B00D1&v=2"/>
 
 </div>
 
