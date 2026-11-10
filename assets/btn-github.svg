@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="66" viewBox="0 0 300 66" xmlns="http://www.w3.org/2000/svg" role="img">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0.3">
+ <stop offset="0" stop-color="#9c7a22"/><stop offset=".3" stop-color="#F6E7A8"/>
+ <stop offset=".6" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f6f1c"/>
+</linearGradient>
+<linearGradient id="goldv" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#F6E7A8"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f6f1c"/>
+</linearGradient>
+<linearGradient id="shw" x1="0" x2="1">
+ <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="fadeh" x1="0" x2="1">
+ <stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a0a4a"/><stop offset="1" stop-color="#16041f"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#F6E7A8" stop-opacity=".9"/><stop offset=".4" stop-color="#D4AF37" stop-opacity=".35"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></radialGradient>
+<linearGradient id="pl" x1="0" x2="1"><stop offset="0" stop-color="#3a0f63"/><stop offset="1" stop-color="#1a0530"/></linearGradient>
+<clipPath id="bc"><rect x="1" y="1" width="298" height="64" rx="5"/></clipPath>
+</defs>
+<style>@font-face{font-family:'Cinzel';font-weight:700;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAATQABAAAAAACYwAAARzAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgS4cKgZgP1NUQVQqAEwRCAqIMIcZATYCJAMgCxIABCAFgyIHIAwHG8cHUVRR4gA+EnKTpjeXUCY0DET8j4f318g/983bzZSQFRJoQOGa1U1VU1VJDjAe4SPO8e9Z84rFvKbnbtfMGlmB6RK5c3KSmwP8e/7z/B8zXRYVVopPBzyRv4qi4mqwvQkONOOuaXwJfoIHfCB0tuUwoslA30tPv6G5bxFoCEhCUisE6utpuDRl2pwltHs2HtlHK8M3o2b31kP7mIEwZEk4lJJJlcxRQ62SqL5xc/U7mlP9XP0NVB+pfqo+UP2rwTSQ8LJuzgoQT7W3SrQTy/fWF623M4dzWpJkNaSLaQUwez1LrBMYPkQ2qP45+cvt1dXS4vX/lymexgAQEL8mGV0lIZQCLQU6Sse37zgSCqQKeIYKU2Rbiqp7ysaivlKSdDVJuuI9qGJKqqIfVh+rW5WxOiemZUdVafKFJWiKnsQpEPcAGSRZaKBGqYach2SsPyircn2jDgCEKWuBN7XWu6w8PZoZbWDMNbVU+vABZm4/d3mwvvb9e0Rhh0Co9OkTEc7ffIpEumK8EILztShs305VqK4GJJJEpVvWtbj9JooiEtoPR8sL4sePRLhUtAnXYvxoHCiqA2YQQ7FufWVdKiASBlAcVqFa44vNoCFlShUkQhFEcr9quu0GFSQKqCYURJGIsr69MYRAiEnIRSOCwAVT55CD4FXlP6cRtKQbdER4G0pKoUR6dKWNwU573KcDLr4GmE/IpksPaFGnYubDh7fkUNJQu3cgaUDheEMzM0/pKCBhcDStCOgHNbfW/3/VAT6ffWCX8VR6n1NCRowf2/ttXh7rmxsan1wy5V3UCCY6CPXlHN1Sw31OPTznaG5xkw12Dfq1w20h4The3iwr+tLzUIHEijNXeCrNOSuCCsyD/xaHJmuiFrnl9x0rqz5gMFTtO1k2FNaqLbV4RY6bz01KzatxCsk35ISva6kLXt2clQaunC7qDGz1DZqNljgrGH4a5c0y59d/Tfcu9V7ukZ6HwEArCjDgXtMXYjTE2J+DIxpviqc4i6zS3VZFh04IDOCACYPGuI3B8N8IW69e23xNVHrNeE27Da2lbMtnJR9uO4o69ZYpgcq+4Xxr/Sbl6xaWrh2K2LBswYJRBDBeTfVrLQmLjikLZuuTHqTdKuCGZ+IrO9bFpw0VQN4uogvdV52m6netD03F8RR9BUc//2ogkHg7cO3I+ibRv5XK4hM8qKnTw0f9fZ72/8vFyOK1UCuB4INjWJeB0WiKYP6AMn41PO3Xv+D4FjW8YpH+aYfGxSi9/Y1AaQ0KgjlWzyFKkeuhjpgbGqrjJqXr3MJAN7lZay+4Ndr7lVOrdWilImkYPc2Z676T8QxG9WnXqs0AB8MN9cGulqDQ5srJ2vUYi41diPACfXgd5saa/RMNGtCG16efg75cwAob9Is0JLxde9bvD2rgZzNeN9Y8nHSFkuQqkawA223cE5mfiNelSaDBhtrgBPOqoTnjUZfdN7/tCdrBWIIx+/Rrn+jhwNoLU7xU8xtyKxlF1VXDVd+K6syNfAUAAAA=) format('woff2')}@font-face{font-family:'Cormorant Garamond';font-weight:500;font-style:italic;src:url(data:font/woff2;base64,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) format('woff2')}
+.cz{font-family:'Cinzel','Trajan Pro','Palatino Linotype',Georgia,serif;font-weight:700}
+.cm{font-family:'Cinzel','Trajan Pro','Palatino Linotype',Georgia,serif;font-weight:500}
+.it{font-family:'Cormorant Garamond','Palatino Linotype',Georgia,serif;font-style:italic;font-weight:500}
+</style>
+<rect x="1" y="1" width="298" height="64" rx="5" fill="url(#pl)" stroke="url(#gold)" stroke-width="1.8"/>
+<rect x="5" y="5" width="290" height="56" rx="3" fill="none" stroke="#D4AF37" stroke-opacity=".3"/>
+<g clip-path="url(#bc)"><rect y="0" width="90" height="66" fill="url(#shw)" opacity=".22" transform="skewX(-18)"><animate attributeName="x" values="-150;-150;380" keyTimes="0;.5;1" dur="6s" repeatCount="indefinite"/></rect></g>
+<circle cx="38" cy="33" r="19" fill="#1c0533" stroke="url(#gold)" stroke-width="1.8"/>
+<text class="cz" x="38" y="40" font-size="19" text-anchor="middle" fill="url(#gold)">G</text>
+<text class="cz" x="70" y="30" font-size="15" letter-spacing="4" fill="url(#gold)">GITHUB</text>
+<text class="it" x="70" y="50" font-size="17" fill="#EDE6D6">Amin-moniry</text>
+</svg>

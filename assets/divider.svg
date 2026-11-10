@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg" role="img">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0.3">
+ <stop offset="0" stop-color="#9c7a22"/><stop offset=".3" stop-color="#F6E7A8"/>
+ <stop offset=".6" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f6f1c"/>
+</linearGradient>
+<linearGradient id="goldv" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#F6E7A8"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#8f6f1c"/>
+</linearGradient>
+<linearGradient id="shw" x1="0" x2="1">
+ <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="fadeh" x1="0" x2="1">
+ <stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a0a4a"/><stop offset="1" stop-color="#16041f"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#F6E7A8" stop-opacity=".9"/><stop offset=".4" stop-color="#D4AF37" stop-opacity=".35"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></radialGradient>
+<pattern id="key" x="0" y="10" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 17H20M3 17V3H17V14H8V8H12" fill="none" stroke="#D4AF37" stroke-width="1.2"/></pattern>
+</defs>
+
+<line x1="60" y1="20" x2="440" y2="20" stroke="url(#fadeh)" stroke-width="1.4"/>
+<line x1="760" y1="20" x2="1140" y2="20" stroke="url(#fadeh)" stroke-width="1.4"/>
+<rect x="460" y="10" width="100" height="20" fill="url(#key)" opacity=".75"/>
+<rect x="640" y="10" width="100" height="20" fill="url(#key)" opacity=".75"/>
+<circle cx="600" cy="20" r="7" fill="#1c0533" stroke="url(#gold)" stroke-width="1.6"/>
+<rect x="596.5" y="16.5" width="7" height="7" fill="url(#goldv)" transform="rotate(45 600 20)"/>
+<circle cx="600" cy="20" r="13" fill="none" stroke="#F6E7A8" stroke-opacity=".5" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0 600 20" to="360 600 20" dur="24s" repeatCount="indefinite"/></circle>
+</svg>
