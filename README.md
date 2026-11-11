@@ -41,8 +41,6 @@
 <a href="https://www.youtube.com/@aminoidtivanix2"><img src="./assets/btn-youtube.svg" alt="YouTube — @aminoidtivanix2" width="49%"/></a>
 <a href="https://github.com/Amin-Moniry"><img src="./assets/btn-github.svg" alt="GitHub — Amin-Moniry" width="49%"/></a>
 
-<img src="./assets/footer.svg" alt="Finis coronat opus. Thank you for visiting. © MMXXVI Amin Moniry. Tabriz, Iran." width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Amin-Moniry&style=flat-square&color=7B2FFF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="./assets/footer-v2.svg" alt="Finis coronat opus. Thank you for visiting. © MMXXVI Amin Moniry. Tabriz, Iran." width="100%"/>
 
 </div>
