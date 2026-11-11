@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="40" viewBox="0 0 1200 40" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="800" height="36" viewBox="0 0 800 36" xmlns="http://www.w3.org/2000/svg" role="img">
 <defs>
 <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0.3">
  <stop offset="0" stop-color="#9c7a22"/><stop offset=".3" stop-color="#F6E7A8"/>
@@ -14,16 +14,18 @@
 <linearGradient id="fadeh" x1="0" x2="1">
  <stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
 </linearGradient>
+<linearGradient id="fadev" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/>
+</linearGradient>
 <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a0a4a"/><stop offset="1" stop-color="#16041f"/></linearGradient>
+<linearGradient id="vio" x1="0" x2="1"><stop offset="0" stop-color="#4B00D1"/><stop offset="1" stop-color="#7B2FFF"/></linearGradient>
 <radialGradient id="glow"><stop offset="0" stop-color="#F6E7A8" stop-opacity=".9"/><stop offset=".4" stop-color="#D4AF37" stop-opacity=".35"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></radialGradient>
-<pattern id="key" x="0" y="10" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 17H20M3 17V3H17V14H8V8H12" fill="none" stroke="#D4AF37" stroke-width="1.2"/></pattern>
+<pattern id="key" x="0" y="8" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 17H20M3 17V3H17V14H8V8H12" fill="none" stroke="#D4AF37" stroke-width="1.2"/></pattern>
 </defs>
-
-<line x1="60" y1="20" x2="440" y2="20" stroke="url(#fadeh)" stroke-width="1.4"/>
-<line x1="760" y1="20" x2="1140" y2="20" stroke="url(#fadeh)" stroke-width="1.4"/>
-<rect x="460" y="10" width="100" height="20" fill="url(#key)" opacity=".75"/>
-<rect x="640" y="10" width="100" height="20" fill="url(#key)" opacity=".75"/>
-<circle cx="600" cy="20" r="7" fill="#1c0533" stroke="url(#gold)" stroke-width="1.6"/>
-<rect x="596.5" y="16.5" width="7" height="7" fill="url(#goldv)" transform="rotate(45 600 20)"/>
-<circle cx="600" cy="20" r="13" fill="none" stroke="#F6E7A8" stroke-opacity=".5" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0 600 20" to="360 600 20" dur="24s" repeatCount="indefinite"/></circle>
+<style>@font-face{font-family:'Cinzel';font-weight:700;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAIAAA8AAAAABGwAAAGpAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQqADQRCAoBLAE2AiQDCAsGAAQgBYMiByAMBxuGAwAuBpyynAWhHtU1Yfi70oVkzzB8PTZCJefh+3vz3PtfSq20gMFYNLwBCXXwBHzHQ8EKlA5a2vhG8y/m9psn8hL3ceKRJdzzFLNHWyJkYqAkEv2Pxdk4ALKQUdqgm4CPiXTYQo5oDZzggazBT/agAQ6gNMANnkluztPHA5UYlaFuKtBrXh6zXetMQFagBgj02qRiNWy5/ZD2oCiXQcld9o5AnmUAdnqWaIIfDcAFn+f4gPCGsHr9D6rXIAAB0c47YBkrhG6BcQzmsaeLJTGJFBAl7wASFcZxAuN4y0BRBJZrqajfArTglUMgoRRQ5ncUSL7PS+8Nbf3JVfULD82WAvzM3KsAEDolCP5KjfZGPgUZbb4/CCTaNdDjgBOlBy0wI/RrIXW7QKXhg2LSFx1m/fhOkzEoiNQf60bxmls+HJ/n1WJJyOfWP0aTZYrKq/0r3aLB+bBOY0LFKy0P5wtSLYmOlwKHY7Gi5TWyxYedo1dpjsv9WXXk3DbWmOnSYZv4bC6+DfT6vWqgtq0onxAMZ+lrc6vDHrk2cUrn6YYCDqjV58teBZdlAAA=) format('woff2')}@font-face{font-family:'Cinzel';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAH0AA8AAAAABFQAAAGeAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQcADQRCAoBLAE2AiQDCAsGAAQgBYMcByAMBxtyAwAuBuyG+iJsdR2F7YJISYjR+noYN0IlJ3h+rc37+w8RT6ZZtBH60Uh0QqeEC5moIeGhkvC2VPb+53bDE3mJdxHxyBLuearcx1ogZRIxav9jcTYOgCpkPHamWRgF1lEUYMQJ7tcNaKAD+T6NLPHZ7EAH+AuPaLotkr/CvFaWoeIF2kzI4Y4Gsx1kZKgAOJJZeTG37JlIHvDMbZDTPleqkS5SAI5jl6hDM5YBCynP8SHgaQYWr/8Vr0EAAqJMd5gRE0KLwAAA6Vw3iEsgocCAuMCAhBkgywIzFVWqt4Ak6l/qBglkAED2CyS+f5c/J91bf5mi+ICHeoMH3kfv8wBAkwSC31mj3EGO1OWb/jRZAqy1OI2L3IoGOYQxD0i6XEFh3WuaeVAz5i2ajEUPMpKOWNT1g1tk6gahprr/Y7QzVNQ1vbvqoFXkW6pMqM3I8KMTyjOIglNLTY1uksGkKtl3axa98ba7PPQ3tWlLhdnYuaqYzN2oOnPEqKmqjm8Fi+WiL9ygV8jBe2/J9D1kXc+RY7SnLA5M1W0qXgWXeQA=) format('woff2')}@font-face{font-family:'Cormorant Garamond';font-weight:500;font-style:italic;src:url(data:font/woff2;base64,d09GMgABAAAAAAJEAA8AAAAABWwAAAHuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcMAZgP1NUQVRAADQRCAoBLAE2AiQDCAsGAAQgBYUMByAMBxuMBACeBTkZbyrl2P5fvAilCdFaHLYjnqffj3bu+29FJW7IYniINPFoTSMhE5lOg8hsJFS1uhL5V2u6n0vYxuHKECqiIslnuu9MZMnWmHb8W1nV9LLkbKy4xn//d1M/yL0DbuEUjyiRaXnPxwZbgySMEzw9PE0D6QQD03RuWP5iEGXfAEKSqaDXvCpm/8zlI2RVaFtA0GtDF9G8V7xyDCyo3uWpA1U9GdS8zbEOyvNCe+Ti/YpFGPpz4Aj51fFvwBuEzf+/Us+nBATyrAgsIyK6FYxLYF3i4Q2NMgVu3eMthohqGAMZzDEipBFQ0GAcEYxLWgaqKlhu36b2q4CX+JeGQAEVALAguGP3/c/rmB2anWRJ8wc+X339BvyeeVcHgKJTAWECj8wh0PzxCgCg5FD8Q1AABAAAvR4hUnvwEryV2PSrFP2+KY3L/pXqUs6VDrNJ7nQmsSqNft+gD+UUBpmVYo/LcxTQqTQUGuobmECPNDJUxgGbS1qeg0K3Ai6DTEShtQil0RxCdSqdSBMRdIlctp4t3gIeeLrndeByUKFetr1GXEAn+IDnuUOCLruguyKT6CK2MxTPohONdfU75DF17ca1val1Z3BgSWfOStfI6Jk8oaPLgbXPX2/uhUzZRkxoT73dFzAENN/krzgZAA==) format('woff2')}
+.cz{font-family:'Cinzel','Trajan Pro','Palatino Linotype',Georgia,serif;font-weight:700}
+.cm{font-family:'Cinzel','Trajan Pro','Palatino Linotype',Georgia,serif;font-weight:500}
+.it{font-family:'Cormorant Garamond','Palatino Linotype',Georgia,serif;font-style:italic;font-weight:500}
+</style>
+<line x1="40" y1="18" x2="280" y2="18" stroke="url(#fadeh)" stroke-width="1.4"/><line x1="520" y1="18" x2="760" y2="18" stroke="url(#fadeh)" stroke-width="1.4"/><rect x="300" y="8" width="60" height="20" fill="url(#key)" opacity=".75"/><rect x="440" y="8" width="60" height="20" fill="url(#key)" opacity=".75"/><circle cx="400" cy="18" r="7" fill="#1c0533" stroke="url(#gold)" stroke-width="1.6"/><rect x="396.5" y="14.5" width="7" height="7" fill="url(#goldv)" transform="rotate(45 400 18)"/><circle cx="400" cy="18" r="13" fill="none" stroke="#F6E7A8" stroke-opacity=".5" stroke-dasharray="2 5"><animateTransform attributeName="transform" type="rotate" from="0 400 18" to="360 400 18" dur="24s" repeatCount="indefinite"/></circle>
 </svg>

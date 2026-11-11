@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="460" viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg data-fixed="1" width="1200" height="460" viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg" role="img">
 <defs>
 <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0.3">
  <stop offset="0" stop-color="#9c7a22"/><stop offset=".3" stop-color="#F6E7A8"/>
@@ -67,7 +67,7 @@
 <rect x="1002.0" y="378" width="44" height="12" fill="#2a0a4a" stroke="url(#gold)" stroke-width="1"/>
 <rect x="995.0" y="390" width="58" height="14" fill="#2a0a4a" stroke="url(#gold)" stroke-width="1.2"/>
 </g>
-<g mask="url(#km)" opacity=".85"><rect x="230" y="40" width="740" height="20" fill="url(#key)"/><rect x="230" y="400" width="740" height="20" fill="url(#key)"/></g>
+<g mask="url(#km)" opacity=".85"><rect x="230" y="40" width="300" height="20" fill="url(#key)"/><rect x="670" y="40" width="300" height="20" fill="url(#key)"/><rect x="230" y="380" width="740" height="20" fill="url(#key)"/></g>
 <circle class="dust" style="animation-delay:0s;animation-duration:8s" cx="260" cy="400" r="1.6" fill="#F6E7A8"/><circle class="dust" style="animation-delay:1.6s;animation-duration:9s" cx="340" cy="420" r="1.2" fill="#F6E7A8"/><circle class="dust" style="animation-delay:3s;animation-duration:7s" cx="430" cy="410" r="1.8" fill="#F6E7A8"/><circle class="dust" style="animation-delay:0.8s;animation-duration:10s" cx="520" cy="430" r="1.2" fill="#F6E7A8"/><circle class="dust" style="animation-delay:2.2s;animation-duration:8s" cx="700" cy="425" r="1.6" fill="#F6E7A8"/><circle class="dust" style="animation-delay:4s;animation-duration:9s" cx="790" cy="405" r="1.2" fill="#F6E7A8"/><circle class="dust" style="animation-delay:0.4s;animation-duration:7s" cx="880" cy="420" r="1.8" fill="#F6E7A8"/><circle class="dust" style="animation-delay:2.8s;animation-duration:10s" cx="960" cy="410" r="1.4" fill="#F6E7A8"/><circle class="dust" style="animation-delay:5s;animation-duration:8s" cx="300" cy="380" r="1.2" fill="#F6E7A8"/><circle class="dust" style="animation-delay:3.6s;animation-duration:9s" cx="640" cy="435" r="1.6" fill="#F6E7A8"/><circle class="dust" style="animation-delay:1.1s;animation-duration:8s" cx="1000" cy="390" r="1.2" fill="#F6E7A8"/><circle class="dust" style="animation-delay:4.4s;animation-duration:9s" cx="200" cy="430" r="1.4" fill="#F6E7A8"/>
 <rect width="1200" height="460" fill="url(#vig)"/>
 
@@ -87,9 +87,9 @@
 <line x1="380" y1="292" x2="575" y2="292" stroke="url(#fadeh)" stroke-width="1.2"/><line x1="625" y1="292" x2="820" y2="292" stroke="url(#fadeh)" stroke-width="1.2"/>
 <rect x="595" y="287" width="10" height="10" fill="#1c0533" stroke="#F6E7A8" transform="rotate(45 600 292)"/>
 </g>
-<text class="cm" x="600" y="330" font-size="17" letter-spacing="8" text-anchor="middle" fill="#EDE6D6">FULL STACK DEVELOPER  ·  AI ENGINEER</text>
-<text class="it" x="600" y="368" font-size="25" text-anchor="middle" fill="#F6E7A8">Per codicem ad astra</text>
-<text class="cm" x="600" y="440" font-size="11" letter-spacing="7" text-anchor="middle" fill="#b8902a">TABRIZ  ·  MMXXVI</text>
+<text class="cm" x="600" y="326" font-size="21" letter-spacing="6" text-anchor="middle" fill="#EDE6D6">FULL STACK DEVELOPER  ·  AI ENGINEER</text>
+<text class="it" x="600" y="366" font-size="28" text-anchor="middle" fill="#F6E7A8">Per codicem ad astra</text>
+<text class="cm" x="600" y="422" font-size="14" letter-spacing="7" text-anchor="middle" fill="#b8902a">TABRIZ  ·  MMXXVI</text>
 </g>
 <rect x="14" y="14" width="1172" height="432" fill="none" stroke="url(#gold)" stroke-width="2.4"/>
 <rect x="24" y="24" width="1152" height="412" fill="none" stroke="#D4AF37" stroke-opacity=".55" stroke-width="1"/>
